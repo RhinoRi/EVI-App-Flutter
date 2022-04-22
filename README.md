@@ -1,6 +1,8 @@
 # evi_app
 
-A new Flutter application.
+=> A new Flutter application for applying to various domains internship. It includes firebase authentication, different type of inputfield and passing data between screens.
+
+
 
 ## Getting Started
 
